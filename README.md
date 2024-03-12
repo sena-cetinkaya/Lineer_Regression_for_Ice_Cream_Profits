@@ -21,3 +21,12 @@ from sklearn.metrics import r2_score, mean_squared_error, mean_absolute_error
 ```
 
 ------------------------------
+### Data Visualization
+Let's observe the relationship between Ice Cream Profits data and Temperature.
+
+![](https://github.com/sena-cetinkaya/Lineer_Regression_for_Ice_Cream_Profits/blob/main/Figure_1.png)
+
+### Visualization Of the Result
+Pink colored values are the values of real data. The ones in blue are the values predicted by the model.
+
+![](https://github.com/sena-cetinkaya/Lineer_Regression_for_Ice_Cream_Profits/blob/main/Figure_2.png)
